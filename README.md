@@ -1,5 +1,5 @@
 ### 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SungyunHwang&fontSize=80&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=SungyunHwang&fontSize=80&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
