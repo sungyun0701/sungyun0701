@@ -1,4 +1,4 @@
-### 👋
+### :running:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SungyunHwang&fontSize=80&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -34,11 +34,14 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
   
-</div> -->
-  
+</div>   
+<br>-->
+<h3 align="center"> 🎓 Certificate | 자격증 🎓</h3>
+<h4 align="center"> 정보처리기사 </h4>
+<h4 align="center"> 정보처리기능사 </h4>
+<h4 align="center"> 컴퓨터활용능력 2급 </h4>
+<h4 align="center"> 워드프로세서 2급 </h4>
 <br>
-
-
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://ventus.tistory.com"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://ventus.tistory.com"/></a>&nbsp
