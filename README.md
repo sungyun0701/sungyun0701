@@ -47,7 +47,9 @@
   <a href="https://ventus.tistory.com"><img src="https://img.shields.io/badge/%20tistory-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://ventus.tistory.com"/></a>&nbsp
    <a href="https://blog.naver.com/dlskd1"><img src="https://img.shields.io/badge/%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/dlskd1"/></a>&nbsp
   <a href="mailto:sungyun0701@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sungyun0701@gmail.com"/></a>
+  <a href="https://sungyun0701.github.io/"><img src="https://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://sungyun0701.github.io/"/></a><br>
 </p>
+
 <br>
 <p align="center">
     <a href="https://hits.seeyoufarm.com"></a>
